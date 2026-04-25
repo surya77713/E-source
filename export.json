@@ -1,0 +1,913 @@
+[
+  {
+    "id": "ba4adb2c-6f04-48f5-be5f-8c749679e451",
+    "name": "study creation",
+    "description": "",
+    "fields": [
+      {
+        "key": "#txtstudy",
+        "value": "2404/08",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(2) > div:nth-child(3) > div:nth-child(1) > input:nth-child(3)",
+        "value": "02",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > input:nth-child(3)",
+        "value": "belgum3",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > input:nth-child(3)",
+        "value": "01",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > input",
+        "value": "EPDA",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > div:nth-child(1) > div:nth-child(1) > input",
+        "value": "4",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > div:nth-child(2) > div:nth-child(1) > input",
+        "value": "7",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > div:nth-child(3) input",
+        "value": "2",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > input",
+        "value": "2",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > div:nth-child(2) > div:nth-child(2) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) select",
+        "value": "number:22",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#washZero",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(6) select",
+        "value": "number:22",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > input",
+        "value": "+/-10",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(6) > div:nth-child(3) > div:nth-child(1) > input",
+        "value": "10",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(6) > div:nth-child(1) input",
+        "value": "+/-10",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(6) > div:nth-child(2) > div:nth-child(2) > input",
+        "value": "0.596",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(6) > div:nth-child(3) > div:nth-child(2) > input",
+        "value": "2",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(8) > div:nth-child(1) input",
+        "value": "water",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(8) > div:nth-child(2) > div > input",
+        "value": "oral",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(8) div:nth-child(1) > select",
+        "value": "number:44",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(8) > div:nth-child(1) select",
+        "value": "number:22",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(8) > div:nth-child(2) select",
+        "value": "number:36",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"Other\"]",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"Others\"]",
+        "value": "Potassium hydride",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(3) > select",
+        "value": "number:38",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(10) > div:nth-child(1) > div:nth-child(1) > select",
+        "value": "number:23",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TimePointGrpInd\"]",
+        "value": "number:23",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(10) > div:nth-child(2) > div:nth-child(2) > select",
+        "value": "number:22",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(10) > div:nth-child(3) > div:nth-child(1) > select",
+        "value": "number:22",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(10) > div:nth-child(3) > div:nth-child(2) > select",
+        "value": "number:22",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "textarea:nth-child(1)",
+        "value": "A product of glucose & ortho",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#inputGroupFile01",
+        "value": "C:\\fakepath\\Sponsors (1).pdf",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#BDBS input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(2) > input:nth-child(1)",
+        "value": "0.125",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(3) > input:nth-child(1)",
+        "value": "0.250",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > input:nth-child(1)",
+        "value": "0.350",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(1) > div > input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals > div > div div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) input",
+        "value": " day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(2) > div:nth-child(1) > div > input",
+        "value": "0.111",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(2) > div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(2) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) > div:nth-child(1) > div > input",
+        "value": "0.275",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) > div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(1) > div > input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals > div > div div:nth-child(2) input",
+        "value": "pre dose meals",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(2) > div:nth-child(1) > div > input",
+        "value": "0.111",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(2) > div:nth-child(2) input",
+        "value": "snacks",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(2) > div:nth-child(3) input",
+        "value": "day 1 ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) > div:nth-child(1) > div > input",
+        "value": "0.240",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) > div:nth-child(2) input",
+        "value": " pre dose meals",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(2) > textarea:nth-child(1)",
+        "value": "Non-smoker and Non-alcoholic.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(3) > textarea:nth-child(1)",
+        "value": "Normal 12-lead electrocardiogram (ECG).",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > textarea:nth-child(1)",
+        "value": "Normal chest X- Ray (P/A view).",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Excl > div > div > div > div > div > div > textarea",
+        "value": "History or presence of drug abuse in the past one year.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Excl > div > div > div > div > div > div:nth-child(2) > textarea",
+        "value": "History of cholestatic jaundice/hepatic dysfunction.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Excl div:nth-child(3) > textarea",
+        "value": "Difficulty in swallowing tablet.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#CIRC > div > div > div > div > div > div > textarea",
+        "value": "Have you donated blood in washout period?",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#CIRC > div > div > div > div > div > div:nth-child(2) > textarea",
+        "value": "Does the Trial Participant comply with Restriction compliance",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#CORC > div > div > div > div > div > div > textarea",
+        "value": "Instructed Trial Participant not to take any poppy foods (like poppy seeds, ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#CORC > div > div > div > div > div > div:nth-child(2) > textarea",
+        "value": "Instructed Trial Participant not to donated blood during washout period.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#PreDose > div > div > div > div > div > div > textarea",
+        "value": "Water restriction for 10.00 hour prior to dosing.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#PreDose > div > div > div > div > div > div:nth-child(2) > textarea",
+        "value": "Water restriction for 1.00 hour prior to dosing.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#PostDose > div > div > div > div > div > div > textarea",
+        "value": "Water restriction for 1.00 hour after dosing.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#PostDose > div > div > div > div > div > div:nth-child(2) > textarea",
+        "value": "Fasting for 4.00 hours after dosing.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#OTV div:nth-child(1) > div > input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#OTV > div > div div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#OTV div:nth-child(2) > div:nth-child(1) > div > input",
+        "value": "0.422",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#OTV div:nth-child(2) > div:nth-child(2) input",
+        "value": "post dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div > div:nth-child(1) > div:nth-child(1) > div > input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div:nth-child(1) > div > div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div:nth-child(1) > div > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div > div:nth-child(2) > div:nth-child(1) > div > input:nth-child(1)",
+        "value": "0.144",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div > div:nth-child(2) > div:nth-child(2) > div > input",
+        "value": "post glc",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#AVDynamicTextBox1",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#BfDynamicTextBox1",
+        "value": "1.5",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#AVDynamicTextBox2",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#BfDynamicTextBox2",
+        "value": "1.5",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > select:nth-child(2)",
+        "value": "number:39",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "68fe1be9-df27-49b2-9c2a-bcdee21e4d6c",
+    "name": "Treatment Creation Details",
+    "description": "",
+    "fields": [
+      {
+        "key": "[name=\"TreatmentsTest\\.TentativeExpDate\"]",
+        "value": "2026-06-12",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.DrugName\"]",
+        "value": " carol",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.DosageForm\"]",
+        "value": "tablets",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(1) > div > div:nth-child(3) > input",
+        "value": "ARM-01",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.StorageConditions\"]",
+        "value": "light",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.MfgDate\"]",
+        "value": "1999-02-15",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.ExcursionsPermitted\"]",
+        "value": "ggg333",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.Qty\"]",
+        "value": "20",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.Dispensedby\"]",
+        "value": "gora",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.Strength\"]",
+        "value": "12",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "[name=\"TreatmentsTest\\.BatchNo\"]",
+        "value": "batch-02",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "ae175649-820b-42ef-911f-86702ba32622",
+    "name": "CHECKIN CLINICAL EXAMINATION",
+    "description": "",
+    "fields": [
+      {
+        "key": "#Cardvs_Status-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Resp_Status-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Abdomen_Status-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#SubFit_CheckIn-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Cns_Status-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#IfNo_Cmnts-field-selection input",
+        "value": "bdfbfbfd",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#DataClarifications",
+        "value": "fgbfdgfggfd",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "085e62fa-f09f-4d18-b1df-1c28b3110250",
+    "name": "inclusion",
+    "description": "",
+    "fields": [
+      {
+        "key": "#IEEXFit-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Remarks-field-selection input",
+        "value": "dgsfdgfg",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#DataClarifications",
+        "value": "fsdfsdgfsdgg",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "60f35ced-f8be-4062-8141-1fe77db0df86",
+    "name": "T.P CHECK-IN RECORD",
+    "description": "",
+    "fields": [
+      {
+        "key": "#UniformIsued-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#FriskingPerformed-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#LockerNo-field-selection input",
+        "value": "02",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#SubjectIdCardIssued-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#BedNo-field-selection input",
+        "value": "01",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#IssuedItems-field-selection select",
+        "value": "string:1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#CLID-field-selection select",
+        "value": "string:2",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#DataClarifications",
+        "value": "gefgdfgdfg",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "f5731b02-638f-45fa-a44f-2aa91247fce8",
+    "name": "Blood Sample TimePoints",
+    "fields": [
+      {
+        "key": "#BDBS input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(2) > input:nth-child(1)",
+        "value": "0.125",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(3) > input:nth-child(1)",
+        "value": "0.250",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > input:nth-child(1)",
+        "value": "0.350",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "2f51a0d4-066e-43ca-8856-f8b24264292e",
+    "name": "Vital TimePoints",
+    "fields": [
+      {
+        "key": "#Vitals div:nth-child(1) > div > input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals > div > div div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) input",
+        "value": " day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(2) > div:nth-child(1) > div > input",
+        "value": "0.111",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(2) > div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(2) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) > div:nth-child(1) > div > input",
+        "value": "0.275",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) > div:nth-child(2) input",
+        "value": "pre dose",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Vitals div:nth-child(3) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "4f31ffb0-764a-4f12-8ae5-20fa2f893743",
+    "name": "Meal TimePoints",
+    "fields": [
+      {
+        "key": "#Meals div:nth-child(1) > div > input",
+        "value": "0.000",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals > div > div div:nth-child(2) input",
+        "value": "pre dose meals",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(2) > div:nth-child(1) > div > input",
+        "value": "0.111",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(2) > div:nth-child(2) input",
+        "value": "snacks",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(2) > div:nth-child(3) input",
+        "value": "day 1 ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) > div:nth-child(1) > div > input",
+        "value": "0.240",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) > div:nth-child(2) input",
+        "value": " pre dose meals",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Meals div:nth-child(3) > div:nth-child(3) input",
+        "value": "day 1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "cc7a252e-16d9-4279-8117-540a073717de",
+    "name": "Inclusion Criteria",
+    "fields": [
+      {
+        "key": "div:nth-child(2) > textarea:nth-child(1)",
+        "value": "Non-smoker and Non-alcoholic.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(3) > textarea:nth-child(1)",
+        "value": "Normal 12-lead electrocardiogram (ECG).",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "div:nth-child(4) > textarea:nth-child(1)",
+        "value": "Normal chest X- Ray (P/A view).",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "1397d1ee-0eb0-4365-bacb-189842926d24",
+    "name": "Exclusion Criteria",
+    "fields": [
+      {
+        "key": "div:nth-child(4) > textarea:nth-child(1)",
+        "value": "History or presence of drug abuse in the past one year.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Excl > div > div > div > div > div > div > textarea",
+        "value": "History of cholestatic jaundice/hepatic dysfunction.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#Excl > div > div > div > div > div > div:nth-child(2) > textarea",
+        "value": "Difficulty in swallowing tablet.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  }
+]
